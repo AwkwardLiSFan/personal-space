@@ -14,7 +14,7 @@ export const projects = [
     image: '/images/novice.png',
     tags: ['Research', 'Education', 'C++'],
     source: 'https://google.com',
-    visit: 'https://google.com',
+    visit: 'https://drive.google.com/file/d/1pIpFnHq_rITBu0adUY9x-9G_7FbZ6Nhy/view?usp=sharing',
     id: 1,
   },
   {
