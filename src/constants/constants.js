@@ -41,8 +41,8 @@ export const TimeLineData = [
   { year: 'Jan 2000', text: 'Spawned on 12th Jan'},
   { year: 'Jul 2015', text: 'Had first doughnut'},
   { year: 'Apr 2018', text: 'Graduated high school, ranked 2nd in the city'},
-  { year: 'Aug 2019', text: 'Moved from India to Adelaide'},
-  { year: 'Jan 2020', text: 'First (Australian) job: AskECMS Student Crew'},
+  { year: 'Aug 2019', text: 'Moved to Adelaide'},
+  { year: 'Jan 2020', text: 'Joined AskECMS Student Crew'},
   { year: 'Nov 2021', text: 'Went vegan'},
-  { year: 'Dec 2021', text: 'First internship: Department of Transport, SA Gov'},
+  { year: 'Dec 2021', text: 'Interned at DIT, SA Gov'},
 ];
