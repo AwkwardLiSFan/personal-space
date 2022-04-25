@@ -4,10 +4,10 @@ import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles
 import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
-  { number: 'Jan \'22', text: 'Junk Food TV: The Witcher S02', link: "https://thisisnotagamereview.blogspot.com/2022/01/junk-food-tv-witcher-s02.html"},
-  { number: 'Jan \'22', text: 'The Rusting Birthday', link: "https://thisisnotagamereview.blogspot.com/2022/01/the-rusting-birthday.html"},
-  { number: 'Jan \'22', text: 'Rohinton Mistry\'s Family Matters: An Emotional Tour-de-Force', link: "https://thisisnotagamereview.blogspot.com/2022/01/rohinton-mistrys-family-matters.html"},
-  { number: 'Dec \'21', text: 'What Open-World Games Can Learn from Horizon: Zero Dawn\'s Collectibles', link: "https://www.gamerswaypoint.com/open-world-games-learn-from-horizon-zero-dawn-collectibles/"}
+  { number: 'Apr \'22', text: 'God of War (2018) Story Analysis', link: "https://www.gamerswaypoint.com/god-of-war-2018-story-analysis/"},
+  { number: 'Mar \'22', text: 'Martha is Dead Story Analysis', link: "https://www.gamerswaypoint.com/martha-is-dead-story-analysis/"},
+  { number: 'Mar \'22', text: 'Martha is Dead - gorgeous visuals a good game do not make', link: "https://www.gamerswaypoint.com/martha-is-dead-review-gorgeous-visuals-a-good-game-do-not-make/"},
+  { number: 'Jan \'22', text: 'Junk Food TV: The Witcher S02', link: "https://thisisnotagamereview.blogspot.com/2022/01/junk-food-tv-witcher-s02.html"}
 ];
 
 const Acomplishments = () => (

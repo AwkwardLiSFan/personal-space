@@ -47,7 +47,7 @@ const Timeline = () => {
         <SectionDivider />
         <br />
         <SectionTitle> My Story </SectionTitle>
-        <SectionText> I'm a final year student pursuing an advanced degree in Computer Science. I am a part of the student crew for my faculty's student support at the Uni, and a participation assistant with Disability Services. I'm currently engaged in an internship with the Department of Transport where I'm building an internal SharePoint portal and picking up a ton of skills in Jira, PowerApps, Figma and more. Outside of work and study, I cannot express how much I love reading and writing. Some key highlights from my life: </SectionText>
+        <SectionText> I'm a final year student pursuing an advanced degree in Computer Science set to graduate in July. I'm currently working at the Department for Infrastructure and Transport following a summer internship with them, assisting with digitizing paper-based licence-processing workflows and building an internal SharePoint portal. On this journey, I've picking up knowledge of progress tracking in Jira, wireframing and prototyping in Figma, maintaing end-user documentation and more. In the past, I have been part of the crew for my faculty's student support team at the Uni, and a participation assistant with Disability Services too. Outside of work and study, I cannot express how much I love reading and writing. Some key highlights from my life: </SectionText>
         <CarouselContainer ref = {carouselRef} onScroll = {handleScroll}>
           <>
             {TimeLineData.map((item, index) =>(
