@@ -4,10 +4,10 @@ import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles
 import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
-  { number: 'May \'22', text: 'A Suitable Boy - Vikram Seth', link: "https://thisisnotagamereview.blogspot.com/2022/05/a-suitable-boy-vikram-seth.html"},
-  { number: 'Apr \'22', text: 'God of War (2018) Story Analysis', link: "https://www.gamerswaypoint.com/god-of-war-2018-story-analysis/"},
-  { number: 'Mar \'22', text: 'Martha is Dead Story Analysis', link: "https://www.gamerswaypoint.com/martha-is-dead-story-analysis/"},
-  { number: 'Mar \'22', text: 'Martha is Dead - gorgeous visuals a good game do not make', link: "https://www.gamerswaypoint.com/martha-is-dead-review-gorgeous-visuals-a-good-game-do-not-make/"}
+  { number: 'Aug \'22', text: 'Syberia: The World Before Review – You Can Never Go Home Again', link: "https://www.gamerswaypoint.com/syberia-the-world-before-review-you-can-never-go-home-again/"},
+  { number: 'Jul \'22', text: 'Outlast (2013): Story Summary', link: "https://www.gamerswaypoint.com/outlast-2013-story-summary/"},
+  { number: 'Jul \'22', text: 'Disco Elysium Analysis: Politics, Free Will and a Haunting Past', link: "https://www.gamerswaypoint.com/disco-elysium-analysis-politics-free-will-haunting-past/"},
+  { number: 'Jun \'22', text: 'The Tragedy of Love in Free India', link: "https://thisisnotagamereview.blogspot.com/2022/06/the-tragedy-of-love-in-free-india.html"}
 ];
 
 const Acomplishments = () => (
